@@ -1,0 +1,1 @@
+printHello = () => "Hello there!";
